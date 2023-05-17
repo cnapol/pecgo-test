@@ -1,0 +1,12 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/non/Desktop/exercise/Github/pecgo-test/app/layout.tsx": [
+      "/Users/non/Desktop/exercise/Github/pecgo-test/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/non/Desktop/exercise/Github/pecgo-test/app/page": [
+      "/Users/non/Desktop/exercise/Github/pecgo-test/app/globals.css"
+    ]
+  }
+}
