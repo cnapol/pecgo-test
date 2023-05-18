@@ -43,6 +43,7 @@ module.exports = {
         green: "#E7F6E9",
         blue: "#E7F2F6",
         detail: "#313131",
+        searchMobile: "#F7F7F7",
       },
       fontFamily: {
         custom: ["Prompt"],
