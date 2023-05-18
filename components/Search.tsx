@@ -12,7 +12,7 @@ export default function Search() {
       <div className="hidden sm:flex">
         <div className="pt-[78px] px-[115px] pb-[87px] bg-white w-full">
           <input
-            className="bg-searchGray h-[72px] w-full rounded-[51px] px-[28px] font-custom text-[16px]"
+            className="bg-searchGray h-[72px] w-full rounded-[51px] px-[28px] font-custom text-[16px] text-gray"
             placeholder="🔍 ค้นหา"
           />
           <div className="flex flex-row mt-[57px] justify-between text-black">

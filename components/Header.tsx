@@ -37,7 +37,7 @@ export default function Header() {
               <div className="cursor-pointer">สมัครสมาชิก</div>
             </div>
             <input
-              className="bg-lightGray rounded mt-[7px] p-[8px] font-light"
+              className="bg-lightGray rounded mt-[7px] p-[8px] font-light text-gray"
               placeholder="🔍 ค้นหา"
             />
           </div>
