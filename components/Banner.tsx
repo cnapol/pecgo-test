@@ -8,7 +8,7 @@ export default function Banner() {
             alt="Pegco Motto"
             className="w-full h-full object-cover"
           />
-          <div className="absolute flex flex-col items-center font-custom w-full bottom-1/2 pt-[137px] text-white">
+          <div className="absolute flex flex-col items-center font-custom w-full top-[100px] pt-[137px] text-white">
             <div className="inline-block align-bottom">
               <span className="text-[60px] font-semibold">เพราะ</span>
               <span className="text-[65px] font-bold">สัตว์เลี้ยง</span>
